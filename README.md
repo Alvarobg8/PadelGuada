@@ -1,6 +1,6 @@
-# PàdelSerra
+# PàdelGuada
 
-Base de dades del Club de Pàdel La Serra (projecte fictici) per a gestionar socis, quotes, reserves de pistes, classes i torneigs.
+Base de dades del Club de Pàdel de Guadassuar (projecte fictici) per a gestionar socis, quotes, reserves de pistes, classes i torneigs.
 Projecte Integrador individual de bases de dades.
 
 ## Estructura
