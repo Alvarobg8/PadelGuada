@@ -8,7 +8,7 @@ _Alumne/a: Alvaro Bria Gimeno
 
 ### 1. Nom i descripció
 
-**PàdelGuada** és la base de dades del **Club de Pàdel de Guadassuar**, un club privat (entitat fictícia) amb sis pistes, quatre de cobertes i dues de descobertes, uns 300 socis i una xicoteta escola de classes dirigides. El client és la gerència del club. Ara les reserves es porten en una agenda de paper i un grup de WhatsApp, i les quotes en un full de càlcul. Això provoca dobles reserves de la mateixa pista, quotes que ningú reclama, classes amb més alumnes que places i cap control de qui entra al club. PàdelSerra centralitzarà socis, quotes, reserves, classes i torneigs, aplicarà les regles del club i protegirà les dades personals segons el RGPD.
+**PàdelGuada** és la base de dades del **Club de Pàdel de Guadassuar**, un club privat (entitat fictícia) amb sis pistes, quatre de cobertes i dues de descobertes, uns 300 socis i una xicoteta escola de classes dirigides. El client és la gerència del club. Ara les reserves es porten en una agenda de paper i un grup de WhatsApp, i les quotes en un full de càlcul. Això provoca dobles reserves de la mateixa pista, quotes que ningú reclama, classes amb més alumnes que places i cap control de qui entra al club. PàdelGuada centralitzarà socis, quotes, reserves, classes i torneigs, aplicarà les regles del club i protegirà les dades personals segons el RGPD.
 
 ### 2. Usuaris del sistema
 
